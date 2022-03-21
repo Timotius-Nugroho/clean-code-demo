@@ -1,0 +1,8 @@
+CONNECTION_STRING = "tcp:127.0.0.1:5760"
+TARGET_ALT = 5
+AIR_SPEED = 2 # m/s
+ALT_GAIN = 0.95
+TIMESTAMP = 0.2 # s
+
+X = 5
+Y = 10
